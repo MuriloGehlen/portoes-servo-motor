@@ -10,3 +10,7 @@ Configurar os leds de estado fechado e aberto
 colocar uma variável de condição para funcionarem quando o servo estiver em 0 ou 90 graus
 Garantir que o led amarelo acenda quando qualquer parte do portão estiver em movimento e o azul quando ambos os lados estiverem abertos (0 graus).
 
+<img width="1384" height="753" alt="image" src="https://github.com/user-attachments/assets/5f3b5365-7257-422f-94d0-3bcd3feddaf9" />
+
+<img width="655" height="792" alt="image" src="https://github.com/user-attachments/assets/966fd39a-2fc5-4cdd-a152-930724c3d869" />
+<img width="655" height="792" alt="image" src="https://github.com/user-attachments/assets/581f920a-e858-4d65-aa54-975ee1aed7f8" />
